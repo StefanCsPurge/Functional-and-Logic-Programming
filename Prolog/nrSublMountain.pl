@@ -2,7 +2,7 @@
 % Write a predicate to determine all subsets with aspect of "mountain".
 
 % getOne(l1...ln): { l1               n>0
-		     getOne(l2...ln)
+%		     getOne(l2...ln)
 % getOne(list,element,list), takes 1 elem out of the list for each elem
 % flow model: (I,O,O)
 
